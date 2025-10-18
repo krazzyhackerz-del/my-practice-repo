@@ -1,2 +1,2 @@
-# my-practice-repo
-This is my training ground 
+# Learning Git & GitHub
+This repo is where I keep notes and practice for learning Git.
